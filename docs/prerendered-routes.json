@@ -1,0 +1,33 @@
+{
+  "routes": [
+    "/admin",
+    "/admin/categories",
+    "/admin/company",
+    "/admin/dashboard",
+    "/admin/faqs",
+    "/admin/faqs-datails",
+    "/admin/promotion",
+    "/admin/service-request",
+    "/admin/services",
+    "/admin/services-request-details",
+    "/admin/shop",
+    "/admin/subscription",
+    "/admin/user",
+    "/admin/user-details",
+    "/custom",
+    "/custom/billing",
+    "/custom/booking",
+    "/custom/booking-details",
+    "/custom/dashboard",
+    "/custom/profile",
+    "/custom/service",
+    "/custom/setting",
+    "/customer",
+    "/customer/profile",
+    "/customer/profile-update",
+    "/login",
+    "/partner",
+    "/partner/register",
+    "/partner/subscription"
+  ]
+}
